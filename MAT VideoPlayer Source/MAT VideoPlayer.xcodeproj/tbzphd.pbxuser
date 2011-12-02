@@ -1,0 +1,143 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = A6F2A51B1371CBD700FBF2E3 /* MAT DocoPlayer */;
+		activeTarget = 8D1107260486CEB800E47090 /* MAT DocoPlayer */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* MAT DocoPlayer */,
+		);
+		codeSenseManager = A6F2A5251371CBF600FBF2E3 /* Code sense */;
+		executables = (
+			A6F2A51B1371CBD700FBF2E3 /* MAT DocoPlayer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					989,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 327591212;
+			PBXWorkspaceStateSaveDate = 327591212;
+		};
+		perUserProjectItems = {
+			A61C821D1386A59A00A7A69C /* PBXBookmark */ = A61C821D1386A59A00A7A69C /* PBXBookmark */;
+			A61C821E1386A59A00A7A69C /* PBXTextBookmark */ = A61C821E1386A59A00A7A69C /* PBXTextBookmark */;
+			A680F41B1372A80A00258C79 /* PBXTextBookmark */ = A680F41B1372A80A00258C79 /* PBXTextBookmark */;
+			A680F4291372A82100258C79 /* PlistBookmark */ = A680F4291372A82100258C79 /* PlistBookmark */;
+		};
+		sourceControlManager = A6F2A5241371CBF600FBF2E3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2448, 2379}}";
+			sepNavSelRange = "{3333, 0}";
+			sepNavVisRange = "{50, 2101}";
+		};
+	};
+	8D1107260486CEB800E47090 /* MAT DocoPlayer */ = {
+		activeExec = 0;
+		executables = (
+			A6F2A51B1371CBD700FBF2E3 /* MAT DocoPlayer */,
+		);
+	};
+	A61C821D1386A59A00A7A69C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4BD35A05125F45AD00622EB6 /* MAT Icon.icns */;
+	};
+	A61C821E1386A59A00A7A69C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 92";
+		rLen = 0;
+		rLoc = 3333;
+		rType = 0;
+		vrLen = 2101;
+		vrLoc = 50;
+	};
+	A680F41B1372A80A00258C79 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 92";
+		rLen = 0;
+		rLoc = 3333;
+		rType = 0;
+		vrLen = 2220;
+		vrLoc = 2283;
+	};
+	A680F4291372A82100258C79 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/tbzphd/Dropbox/0 - MAT/MAT-DocoPlayer/MAT DocoPlayer Source/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	A6F2A51B1371CBD700FBF2E3 /* MAT DocoPlayer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "MAT DocoPlayer";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A6F2A5241371CBF600FBF2E3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A6F2A5251371CBF600FBF2E3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

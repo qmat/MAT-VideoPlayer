@@ -1,0 +1,208 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = 4B613D610F5C56AE00289626 /* MAT Showcase */;
+		activeTarget = 8D1107260486CEB800E47090 /* MAT Showcase */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* MAT Showcase */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 4B613D650F5C56D200289626 /* Code sense */;
+		executables = (
+			4B613D610F5C56AE00289626 /* MAT Showcase */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1233,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308233708;
+			PBXWorkspaceStateSaveDate = 308233708;
+		};
+		perUserProjectItems = {
+			4B1FFE66125F469B00A84786 /* PBXBookmark */ = 4B1FFE66125F469B00A84786 /* PBXBookmark */;
+			4B1FFE67125F469B00A84786 /* PBXBookmark */ = 4B1FFE67125F469B00A84786 /* PBXBookmark */;
+			4B1FFE68125F469B00A84786 /* PlistBookmark */ = 4B1FFE68125F469B00A84786 /* PlistBookmark */;
+			4B1FFE69125F469B00A84786 /* PlistBookmark */ = 4B1FFE69125F469B00A84786 /* PlistBookmark */;
+			4BA984F30FBCA46E00494CD9 /* PBXTextBookmark */ = 4BA984F30FBCA46E00494CD9 /* PBXTextBookmark */;
+			4BA984F40FBCA46E00494CD9 /* PBXTextBookmark */ = 4BA984F40FBCA46E00494CD9 /* PBXTextBookmark */;
+			4BD35A0B125F45D200622EB6 /* PBXTextBookmark */ = 4BD35A0B125F45D200622EB6 /* PBXTextBookmark */;
+			4BD35A16125F45DB00622EB6 /* PlistBookmark */ = 4BD35A16125F45DB00622EB6 /* PlistBookmark */;
+		};
+		sourceControlManager = 4B613D640F5C56D200289626 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2448, 2197}}";
+			sepNavSelRange = "{1813, 0}";
+			sepNavVisRange = "{3441, 2117}";
+		};
+	};
+	4B1FFE66125F469B00A84786 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4BD35A05125F45AD00622EB6 /* MAT Icon.icns */;
+	};
+	4B1FFE67125F469B00A84786 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+	};
+	4B1FFE68125F469B00A84786 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleShortVersionString,
+		);
+		name = "/Volumes/Unwitting HDD/tobyz/tbz.phd/0 - MAT/MAT Screensaver/MAT-Showcase-v04/MAT Showcase Player Source/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	4B1FFE69125F469B00A84786 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Unwitting HDD/tobyz/tbz.phd/0 - MAT/MAT Screensaver/MAT-Showcase-v04/MAT Showcase Player Source/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	4B613D610F5C56AE00289626 /* MAT Showcase */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "MAT Showcase";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	4B613D640F5C56D200289626 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4B613D650F5C56D200289626 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4BA984F30FBCA46E00494CD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4BDA681D0FBC4CBC00B81C02 /* SPK-NSScreen.m */;
+		name = "SPK-NSScreen.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1822;
+		vrLoc = 0;
+	};
+	4BA984F40FBCA46E00494CD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4BDA681C0FBC4CBC00B81C02 /* SPK-NSScreen.h */;
+		name = "SPK-NSScreen.h: 13";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 329;
+		vrLoc = 0;
+	};
+	4BD35A0B125F45D200622EB6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 54";
+		rLen = 0;
+		rLoc = 1813;
+		rType = 0;
+		vrLen = 2117;
+		vrLoc = 3441;
+	};
+	4BD35A16125F45DB00622EB6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Volumes/Unwitting HDD/tobyz/tbz.phd/0 - MAT/MAT Screensaver/MAT-Showcase-v04/MAT Showcase Player Source/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	4BDA681C0FBC4CBC00B81C02 /* SPK-NSScreen.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 572}}";
+			sepNavSelRange = "{208, 0}";
+			sepNavVisRange = "{0, 329}";
+		};
+	};
+	4BDA681D0FBC4CBC00B81C02 /* SPK-NSScreen.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2556, 1064}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2032}";
+		};
+	};
+	8D1107260486CEB800E47090 /* MAT Showcase */ = {
+		activeExec = 0;
+		executables = (
+			4B613D610F5C56AE00289626 /* MAT Showcase */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{19, 0}, {1260, 873}}";
+		};
+	};
+}
