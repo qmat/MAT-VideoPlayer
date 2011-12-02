@@ -1,0 +1,7 @@
+MAT-VideoPlayer
+
+Originally created for qMedia Open Studios 2011 by Toby Harris to showcase the MAT Documentaries.
+
+Technically, a bare-bones Cocoa application wrapper around a Quartz Composer composition. The app full-screens the QC comp, and the comp gets on with whatever its been noodled to do. In this case, its play through videos it finds in the folder the app is running from. It will animate in a graphic to fill the gap when a 4x3 video plays in a widescreen display.
+
+While you could just full-screen the QC comp in the Quartz Composer editor application itself, doing it this way means you can lock down the Mac into a kiosk (ie. disable quit etc), and drive the QC comp more performantly using a display link. Not to say they're implemented yet, it was a highly expedient thing at the time...
